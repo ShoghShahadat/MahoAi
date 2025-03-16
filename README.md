@@ -35,33 +35,6 @@ MahoAI یک دستیار هوشمند برنامه‌نویسی است که با
 - 📦 نصب خودکار وابستگی‌ها
 - 🔄 پشتیبانی از پروژه‌های Flutter
 
-## 📑 ساختار پروژه
-
-```bash
-📦MahoAI
-├── 📂mahoBody
-│   ├── __init__.py
-│   ├── func.py
-│   ├── list_files.py
-│   └── set_json.py
-├── 📂static
-│   ├── script.js
-│   └── style.css
-├── 📂templates
-│   └── index.html
-├── config.txt
-├── main.py
-└── requirements.txt
-```
-
-## 🗂 فایل‌ها و وظایف
-| فایل/ماژول          | توضیحات                                  |
-|----------------------|------------------------------------------|
-| `main.py`            | هسته اصلی برنامه با Flask               |
-| `mahoBody/func.py`   | توابع پردازش درخواست‌ها و JSON          |
-| `mahoBody/set_json.py` | سیستم پشتیبان‌گیری و مدیریت تغییرات   |
-| `static/script.js`   | منطق تعاملی رابط کاربری                 |
-
 ## 🚀 قابلیت‌های کلیدی
 <div align="center">
   <table>
