@@ -2,7 +2,7 @@
 
 <!-- Banner Section -->
 <div align="center">
-  <img src="[https://via.placeholder.com/1920x400.png?text=MahoAI+Banner](https://github.com/ShoghShahadat/MahoAi/blob/main/Screenshot%202025-03-17%20025336.png)" alt="MahoAI Banner"/>
+ <img src="https://github.com/ShoghShahadat/MahoAi/blob/main/Screenshot%202025-03-17%20025336.png" alt="MahoAI Banner"/>
   <h1>MahoAI 🤖 - دستیار هوشمند برنامه‌نویسی</h1>
   <p>دستیاری قدرتمند برای تسریع و بهبود فرایند توسعه نرم‌افزار</p>
   <div>
