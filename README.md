@@ -1,4 +1,4 @@
-
+**english version:** [english](https://github.com/ShoghShahadat/MahoAi/blob/main/README-en.md)
 ---
 
 <!-- Banner Section -->
