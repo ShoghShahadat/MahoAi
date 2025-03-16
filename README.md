@@ -1,6 +1,6 @@
 
 
-```markdown
+```bash
 <!-- Banner Section -->
 <div align="center">
   <img src="https://via.placeholder.com/1920x400.png?text=MahoAI+Banner" alt="MahoAI Banner"/>
