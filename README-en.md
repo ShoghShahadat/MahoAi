@@ -1,4 +1,4 @@
-**Persian version:** [فارسی](https://github.com/ShoghShahadat/MahoAi/blob/main/README.md)
+**مشاهده به فارسی:** [فارسی](https://github.com/ShoghShahadat/MahoAi/blob/main/README.md)
 
 ---
 
