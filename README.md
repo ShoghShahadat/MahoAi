@@ -102,49 +102,6 @@ python main.py
 ```
 
 ## 📖 نحوه کار
-<div align="center">
-  <img src="https://mermaid.ink/svg/pako:eNpVjz0OwjAMhK8SeU5T5eQEOEADQj0Ah5Q0qV1bduQ0tL27cQUSaOz5Zj4nGxQ0cS1sxVkU0gqHj6gM1k6W6F0V5OZ6V3fFhXQ0Vg1Yq5hBw3iZ9H6d0n6f7bHvM9ZtXb6vLzWz5qjV9f7G9gx0D7Qy0y3A7QHvHk5Hk8xE9wOkC9wz3B9wKvBp4NvD_4vOHzhc8fvgD4AuELgi8YvhD4QuELgy8cvgh4o-CNgTcG3lh44-CNgzce3gR4E-FNhDcJ3iR4k-FNhjcZ3hR4U-BNgTcF3lR4U-FNhTcV3jR40-BNgzcN3jR40-BNgzcN3nR40-FNhzcN3jR40-FNhzcN3gx4M-DNgDcD3gx4M-DNgDcD3kx4M-HNhDcT3kx4M-HNhDcL3ix4s-DNgjcL3ix4s-DNgrcd3nZ42-Fth7cd3nZ42-Fth7cD3g54O-DtgLcD3g54O-DtgLcT3k54O-HthLcT3k54O-HthLcL3i54u-DtgrcL3i54u-Dtgrcb3m54u+Hthrcb3m54u-HthrcH3h54e-DtgbcH3h54e-DtgbcX3l54e-HthbcX3l54e-HthbcP3j54--Dtg7cP3j54--Dtg3cA3gF4B-AdgHcA3gF4B_AdgHcQ3kF4B_EdhHcQ3kF8B_EdhHcI3iF4h_AdgncI3iF8h_AdgncY3mF4h_EdhncY3mF4h_EdhncE3hF4R_AdgXcE3hF4R_AdgXcU3lF4R_EdhXcU3lF4R_EdhXcM3jH4B2DdwzeMXjH4B2DdwLeCXgn4J2AdwLeCXgn4J2AdwreKXin4J2CdwreKXin4J2GdxreaXin4Z2GdxreaXhn4J2BdwbeGXhn4J2BdwbeGXhn4Z2FdxbeWXhn4Z2FdxbeWXjn4J2Ddw7eOXjn4J2Ddw7eOXjn4Z2Hdx7eeXjn4Z2Hdx7eeXgX4F2AdwHeBXgX4F2AdwHeBXgX4V2EdxHeRXgX4V2EdxHeRXiX4F2CdwneJXiX4F2CdwneJXiX4V2GdxneZXiX4V2GdxneZXhX4F2BdwXeFXhX4F2BdwXeFXhX4V2FdxXeVXhX4V2FdxXeVXjX4F2Ddw3eNXjX4F2Ddw3eNXjX4F2Hdx3edXjX4V2Hdx3edXjX4d2AdwPeDXg34N2AdwPeDXg34N2EdxPeTXg34d2EdxPeTXg34d2CdxvebXi34d2GdxvebXi34d2GdxvebXi34d2GdxvebXi34d2GdwfeHXh34N2BdwfeHXh34N2BdwfeHXz38N3Ddw_fPXz38N3Ddw_fPXz38D3A9wDfA3wP8D3A9wDfA3yP8D3C9wjfI3yP8D3C9wjfI3xP8D3B9wTfE3xP8D3B9wTfE3zP8D3D9wzfM3zP8D3D9wzfM3wv8L3A9wLfC3wv8L3A9wLfC3yv8L3C9wrfK3yv8L3C9wrfK3xv8L3B9wbfG3xv8L3B9wbfG3xv8H3Bt8bfG_wvcH3Bt8bfG_wvcP3Dt87fO_wvcP3Dt87fO_wfcD3Ad8HfB_wfcD3Ad8HfB_wfcL3Cd8nfJ_wfcL3Cd8nfJ_wfcH3Bd8XfF_wfcH3Bd8XfF_wfcP3Dd83fN_wfcP3Dd83fN_w_cD3A98PfD_w_cD3A98PfD_w_cL3C98vfL_w_cL3C98vfL_w_cP3D98_fP_w_cP3D98_fP_w_cP3D98_fP_w-cPnD58_fP7w-cPnD58_fP7wBcAXAF8AfAHwBcAXAF8AfAHwBcIXCF8gfIHwBcIXCF8gfIHwBcEXBF8QfEHwBcEXBF8QfEHwBcMXDF8wfMHwBcMXDF8wfMHwhcAXAl8IfCHwhcAXAl8IfCHwhcIXCl8ofKHwhcIXCl8ofKHwhcEXBl8YfGHwhcEXBl8YfGHwhcMXDl84fOHwhcMXDl84fOHwRcAXAV8EfBHwRcAXAV8EfBHwRcIXCV8kfJHwRcIXCV8kfJHwRcG3A98OfDvw7cC3A98OfDvw7cC3A98OfDvw7cC3A98OfDvw7cC3C98ufLvw7cK3C98ufLvw7cK3B98efHvw7cG3B98efHvw7cG3D98-fPvw7cO3D98-fPvw7cN3AN8BfAfwHcB3AN8BfAfwHcB3CN8hfIfwHcJ3CN8hfIfwHcJ3BN8RfEfwHcF3BN8RfEfwHcF3DN8xfMfwHcN3DN8xfMfwHcN3At8JfCfwncB3At8JfCfwncB3Ct8pfKfwncJ3Ct8pfKfwncJ3Bt8ZfGfwncF3Bt8ZfGfwncF3Dt85fOfwncN3Dt85fOfwncN3Ad8FfBfwXcB3Ad8FfBfwXcB3Cd8lfJfwXcJ3Cd8lfJfwXcJ3Bd8VfFfwXcF3Bd8VfFfwXcF3Dd81fNfwXcN3Dd81fNfwXcN3A98NfDfw3cB3A98NfDfw3cB3C98tfLfw3cJ3C98tfLfw3cJ3C98dfHfw3cF3B98dfHfw3cF3B98DfA_wPcD3AN8DfA_wPcD3AN8jfI_wPcL3CN8jfI_wPcL3CN8TfE_wPcH3BN8TfE_wPcH3BN8zfM_wPcP3DN8zfM_wPcP3At8LfC_wvcD3At8LfC_wvcD3Ct8rfK_wvcL3Ct8rfK_wvcL3Bt8bfG3wtcHXBt8bfG3xtcHXBt8bfG3wtcHXBt8bfG3wtcHXBt8bfG3wtcHXDt87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87fO3wtcPXDl87(Due to technical issues, the search service is temporarily unavailable.)
-
-به درخواست شما یک طراحی حرفه‌ای و جذاب برای فایل README.md پروژه MahoAI آماده کردم. این نسخه از امکانات پیشرفته Markdown مانند جداول زیبا، آیکون‌های متناسب، ساختار سلسله مراتبی و المان‌های بصری استفاده می‌کند:
-
-```markdown
-<!-- MahoAI Banner -->
-<div align="center">
-  <img src="https://i.ibb.co/4T7Wb2N/mahoai-banner.png" alt="MahoAI Banner" width="800">
-</div>
-
-<!-- Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-2.0%2B-green?logo=flask" alt="Flask">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-</div>
-
-<br>
-
-<div dir="rtl" align="right">
-
-# 🤖 MahoAI - دستیار هوشمند برنامه‌نویسی
-
-✨ **تبدیل ایده‌های شما به کد با سرعت نور** ✨
-
-![MahoAI Demo](https://i.ibb.co/5k3bS7V/mahoai-demo.gif)
-
-## 📚 فهرست مطالب
-- [معرفی پروژه](#-معرفی-پروژه)
-- [ویژگی‌های کلیدی](#-ویژگیهای-کلیدی)
-- [ساختار پروژه](#-ساختار-پروژه)
-- [نصب و راه‌اندازی](#-نصب-و-راهاندازی)
-- [نحوه استفاده](#-نحوه-استفاده)
-- [جزئیات فنی](#%EF%B8%8F-جزئیات-فنی)
-- [مسیر آینده](#-مسیر-آینده)
-- [مشارکت](#-مشارکت)
-- [تماس با ما](#-تماس-با-ما)
-- [مجوز](#-مجوز)
-
-## 🚀 معرفی پروژه
-**MahoAI** یک دستیار برنامه‌نویسی پیشرفته است که با ترکیب فناوری‌های مدرن به توسعه‌دهندگان در بهبود فرآیند کدنویسی کمک می‌کند:
-
 ```bash
 +------------------------+       +-----------------------+
 |   درخواست متنی کاربر   |  -->  |     پردازش هوشمند      |
