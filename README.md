@@ -2,7 +2,6 @@
 
 <!-- Banner Section -->
 <div align="center">
- <img src="https://github.com/ShoghShahadat/MahoAi/blob/main/Screenshot%202025-03-17%20025336.png" alt="MahoAI Banner"/>
   <h1>MahoAI 🤖 - دستیار هوشمند برنامه‌نویسی</h1>
   <p>دستیاری قدرتمند برای تسریع و بهبود فرایند توسعه نرم‌افزار</p>
   <div>
@@ -10,6 +9,7 @@
     <img src="https://img.shields.io/badge/Flask-2.0%2B-lightgrey?logo=flask"/>
     <img src="https://img.shields.io/badge/License-MIT-green"/>
   </div>
+  <img src="https://github.com/ShoghShahadat/MahoAi/blob/main/Screenshot%202025-03-17%20025336.png" alt="MahoAI Banner"/>
 </div>
 
 <!-- TOC -->
