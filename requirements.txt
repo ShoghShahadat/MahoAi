@@ -1,0 +1,10 @@
+asyncio
+python-telegram-bot
+cryptography
+Pillow
+rembg
+watchdog
+opencv-python
+onnxruntime
+aiohttp
+dotenv
