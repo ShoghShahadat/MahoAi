@@ -199,17 +199,6 @@ mahoai/
 - pip 20+
 - مرورگر مدرن
 
-### مراحل نصب
-```bash
-# کلون کردن مخزن
-git clone https://github.com/username/mahoai.git && cd mahoai
-
-# نصب نیازمندی‌ها
-pip install -r requirements.txt
-
-# اجرای برنامه
-python main.py
-```
 
 ---
 
